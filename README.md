@@ -2,7 +2,7 @@
 <h3 align="center">BTech Student | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=30&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Chatbot+Builder;MERN+Stack+Enthusiast;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=30&center=true&vCenter=true&width=800&lines=App+Developer;Chatbot+Builder;Continuous+Learner" />
 </p>
 
 ---
